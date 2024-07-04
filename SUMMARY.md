@@ -1,9 +1,10 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Project Structure](project-structure.md)
 * [Getting Started](getting-started.md)
   * [Installation](getting-started.md)
+  * [Your First %golem Project](getting-started/your-first-golem-project.md)
   * [Publishing Namespace](getting-started.md)
 * [Reference & Usage](reference-usage.md)
   * [Project Creation](project-creation.md)
@@ -12,6 +13,7 @@
       * [Create From Template](create-from-template.md)
     * [Build & Serve](build-serve.md)
     * [Dojo Access](dojo-access.md)
+    * [Watch](reference-usage/project-creation/watch.md)
     * [Shutdown Fake Ships](shutdown-fake-ships.md)
   * [Package Management](package-management.md)
     * [Install Packages](install-packages.md)
