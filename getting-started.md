@@ -10,7 +10,7 @@ npm install -g @archetype-org/golem
 
 ## Next Steps: Project Creation
 
-Once installed you can begin creating projects and installing packages from the registry.
+Once installed you can begin [creating projects](getting-started/your-first-golem-project.md) and installing packages from the registry.
 
 ## Next Steps: Publishing
 
